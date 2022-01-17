@@ -1,0 +1,12 @@
+questoins for slido later
+
+What does prototype in JavaScript mean? Eg, Array Prototype, Object Prototypen
+
+
+
+practice arrow functions
+
+practice the diff beteen slice and splice
+
+
+
